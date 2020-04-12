@@ -1,0 +1,867 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"an",
+				"animation-duration\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tabc"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"pr",
+				"profile-link\tabc"
+			],
+			[
+				"magi",
+				"margin-left\tproperty"
+			],
+			[
+				"alig",
+				"align-content\tproperty"
+			],
+			[
+				"c",
+				"center\tabc"
+			],
+			[
+				"gr",
+				"grid-try\tabc"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ma",
+				"margin\tabc"
+			],
+			[
+				"bo",
+				"box-shadow\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"pro",
+				"project-tile\tabc"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"te",
+				"text-align\t(index.html)"
+			],
+			[
+				"un",
+				"text-underline-position\tproperty"
+			],
+			[
+				"li",
+				"linear-gradient\tabc"
+			],
+			[
+				"se",
+				"second-view\tabc"
+			],
+			[
+				"col",
+				"color\tabc"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"fle",
+				"flex\tdisplay"
+			],
+			[
+				"f",
+				"fixed\tposition"
+			],
+			[
+				"sec",
+				"section\t(index.html)"
+			],
+			[
+				"fi",
+				"first-view\tabc"
+			],
+			[
+				"pad",
+				"padding-bottom\tabc"
+			],
+			[
+				"a",
+				"auto\tpadding"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"tex",
+				"text-anchor\tproperty"
+			],
+			[
+				"fl",
+				"flexnav\tabc"
+			],
+			[
+				"in",
+				"inherit\tdisplay"
+			],
+			[
+				"flex",
+				"flex-direction\tabc"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"t",
+				"tag\tabc"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"Hel",
+				"Hello_World\tabc"
+			],
+			[
+				"H",
+				"Hello_World"
+			],
+			[
+				"mai",
+				"main-section\tabc"
+			],
+			[
+				"cr",
+				"circle\tlist-style"
+			],
+			[
+				"main",
+				"main-doc\tabc"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"na",
+				"navbar\tabc"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"borde",
+				"border-right\tproperty"
+			],
+			[
+				"padding-le",
+				"padding-left\t(index.html)"
+			],
+			[
+				"j",
+				"justify-content\tproperty"
+			],
+			[
+				"no",
+				"none\tlist-style"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"Pon",
+				"pointer\tcursor"
+			],
+			[
+				"s",
+				"size\tproperty"
+			],
+			[
+				"sty",
+				"list-style\tproperty"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"hi",
+				"height\tproperty"
+			],
+			[
+				"pri",
+				"Price"
+			],
+			[
+				"ho",
+				"how-it\tabc"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"flr",
+				"flex-direction\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"r",
+				"row\tabc"
+			],
+			[
+				"fa",
+				"fa-3x\tabc"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"e",
+				"email\t(index.html)"
+			],
+			[
+				"for",
+				"form\tabc"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"ima",
+				"image\t(index.html)"
+			],
+			[
+				"min",
+				"min-height\t(index.html)"
+			],
+			[
+				"ju",
+				"justify-content\tproperty"
+			],
+			[
+				"min-",
+				"min-width\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"opti",
+				"opacity\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"img",
+				"img-caption\tabc"
+			],
+			[
+				"im",
+				"image\tabc"
+			],
+			[
+				"tr",
+				"target\tAttr"
+			],
+			[
+				"getF",
+				"getFromT\tabc"
+			],
+			[
+				"tren",
+				"trend\tabc"
+			],
+			[
+				"tre",
+				"trend\t(getHashtag.php)"
+			],
+			[
+				"IN",
+				"INTO\t(user.php)"
+			],
+			[
+				"I",
+				"INSERT\t(user.php)"
+			],
+			[
+				"preg",
+				"preg_match_all"
+			],
+			[
+				"use",
+				"username\t(user.php)"
+			],
+			[
+				"exec",
+				"execute\tabc"
+			],
+			[
+				"user",
+				"username\tabc"
+			],
+			[
+				"get",
+				"getTrendByHash\t(tweet.php)"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"incl",
+				"include\t(home.php)"
+			],
+			[
+				"fe",
+				"fetchAll\tabc"
+			],
+			[
+				"ha",
+				"hashtag\tabc"
+			],
+			[
+				"has",
+				"hashtag\tabc"
+			],
+			[
+				"el",
+				"else\tabc"
+			],
+			[
+				"va",
+				"val\tabc"
+			],
+			[
+				"data",
+				"dataString\tabc"
+			],
+			[
+				"twe",
+				"tweetImage\tabc"
+			],
+			[
+				"pos",
+				"postedOn\t(home.php)"
+			],
+			[
+				"tw",
+				"tweet\tabc"
+			],
+			[
+				"twee",
+				"tweet\t(home.php)"
+			],
+			[
+				"fet",
+				"fetchAll\t(user.php)"
+			],
+			[
+				"exc",
+				"execute\t(user.php)"
+			],
+			[
+				"tweet",
+				"tweetBy\t(home.php)"
+			],
+			[
+				"up",
+				"uploadImage\t(user.php)"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"check",
+				"checkInput\t(user.php)"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"sc",
+				"screenName\t(user.php)"
+			],
+			[
+				"scr",
+				"screenName\tabc"
+			],
+			[
+				"th",
+				"this\tabc"
+			],
+			[
+				"fun",
+				"function\tabc"
+			],
+			[
+				"cu",
+				"current\tabc"
+			],
+			[
+				"ne",
+				"newPassword\tabc"
+			],
+			[
+				"curr",
+				"currentPwd\tabc"
+			],
+			[
+				"fil",
+				"fields\t(user.php)"
+			],
+			[
+				"acc",
+				"account\tabc"
+			],
+			[
+				"head",
+				"header\tabc"
+			],
+			[
+				"arr",
+				"array\t(user.php)"
+			],
+			[
+				"che",
+				"checkEmail\t(user.php)"
+			],
+			[
+				"FIL",
+				"FILTER_VALIDATE_EMAIL\t(login.php)"
+			],
+			[
+				"char",
+				"characters\t(profileEdit.php)"
+			],
+			[
+				"fie",
+				"fields\t(user.php)"
+			],
+			[
+				"us",
+				"user\tabc"
+			],
+			[
+				"file",
+				"fileRoot\tabc"
+			],
+			[
+				"all",
+				"allowed_ext\tabc"
+			],
+			[
+				"strto",
+				"strtolower"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/Django/Projects/Product Landing Page/index.html",
+		"/G/Django/Projects/Portfolio/Myportfolio.html",
+		"/G/Django/Projects/Tribute-page/index.html",
+		"/G/NatureTour/.git/COMMIT_EDITMSG",
+		"/G/Django/Projects/Tribute-page/.git/COMMIT_EDITMSG",
+		"/G/Django/Projects/Tribute page/index.html",
+		"/G/Django/Projects/Technical-Documentation/TechnicalDocumentation.html",
+		"/G/Django/Projects/footer.html",
+		"/G/Django/Projects/testindex.html",
+		"/G/Django/Projects/Survey Form/index.html",
+		"/C/Users/HP/Documents/hack1crsf.html",
+		"/F/index.php",
+		"/C/Users/HP/Documents/Algorithm/nonames/staticandNon.class",
+		"/F/home.html",
+		"/C/Users/HP/Desktop/Kraken_v1.5/Recovery/text.txt",
+		"/C/Users/HP/Desktop/Kraken_v1.5/Recovery/test",
+		"/F/b374k-master/index.php",
+		"/G/crunch-3.6/crunch.c",
+		"/G/XAMPP/htdocs/twitter/core/classes/user.php",
+		"/G/XAMPP/htdocs/twitter/home.php",
+		"/G/XAMPP/htdocs/twitter/assets/js/hashtag.js",
+		"/G/XAMPP/htdocs/twitter/core/classes/tweet.php",
+		"/G/XAMPP/htdocs/twitter/core/ajax/getHashtag.php",
+		"/G/XAMPP/htdocs/twitter/core/ajax/search.php",
+		"/G/XAMPP/htdocs/twitter/account.php",
+		"/G/XAMPP/htdocs/twitter/password.php",
+		"/G/XAMPP/htdocs/twitter/assets/js/search.js",
+		"/G/Udemy.Create.a.High.End.Social.Network.Like.Twitter.in.PHP.MySQL_[freetuts.download]/03 Creating Newsfeed Tweet System/project files/mention.html",
+		"/G/XAMPP/htdocs/twitter/include/logout.php",
+		"/G/XAMPP/htdocs/twitter/core/init.php",
+		"/G/Udemy.Create.a.High.End.Social.Network.Like.Twitter.in.PHP.MySQL_[freetuts.download]/03 Creating Newsfeed Tweet System/project files/tweets.html",
+		"/G/Udemy.Create.a.High.End.Social.Network.Like.Twitter.in.PHP.MySQL_[freetuts.download]/02 Building Users Features/attached_files/007 Creating index page and forms/project files/searchUser.html",
+		"/G/XAMPP/htdocs/twitter/ajax/search.php",
+		"/G/Udemy.Create.a.High.End.Social.Network.Like.Twitter.in.PHP.MySQL_[freetuts.download]/02 Building Users Features/attached_files/007 Creating index page and forms/project files/password.html",
+		"/G/XAMPP/htdocs/twitter/profileEdit.php",
+		"/G/XAMPP/htdocs/twitter/core/classes/follow.php",
+		"/G/XAMPP/htdocs/twitter/include/login.php",
+		"/G/XAMPP/htdocs/twitter/include/signup-form.php",
+		"/G/XAMPP/htdocs/twitter/.htaccess",
+		"/G/XAMPP/htdocs/twitter/index.php",
+		"/G/XAMPP/htdocs/twitter/profile.php",
+		"/G/XAMPP/htdocs/twitter/include/signup.php",
+		"/G/Udemy.Create.a.High.End.Social.Network.Like.Twitter.in.PHP.MySQL_[freetuts.download]/02 Building Users Features/attached_files/007 Creating index page and forms/project files/account.html",
+		"/G/Udemy.Create.a.High.End.Social.Network.Like.Twitter.in.PHP.MySQL_[freetuts.download]/02 Building Users Features/attached_files/007 Creating index page and forms/project files/profile-edit.html",
+		"/G/XAMPP/htdocs/twitter/.hyaccess",
+		"/G/Udemy.Create.a.High.End.Social.Network.Like.Twitter.in.PHP.MySQL_[freetuts.download]/02 Building Users Features/attached_files/007 Creating index page and forms/project files/profile.html",
+		"/G/XAMPP/htdocs/twitter/include/profile.php",
+		"/G/Udemy.Create.a.High.End.Social.Network.Like.Twitter.in.PHP.MySQL_[freetuts.download]/02 Building Users Features/attached_files/007 Creating index page and forms/project files/choose-username.html",
+		"/G/XAMPP/htdocs/twitter/core/databases/connection.php",
+		"/G/Udemy.Create.a.High.End.Social.Network.Like.Twitter.in.PHP.MySQL_[freetuts.download]/02 Building Users Features/attached_files/007 Creating index page and forms/project files/home.html",
+		"/G/Udemy.Create.a.High.End.Social.Network.Like.Twitter.in.PHP.MySQL_[freetuts.download]/02 Building Users Features/attached_files/007 Creating index page and forms/project files/includes/signup-form.html",
+		"/G/Udemy.Create.a.High.End.Social.Network.Like.Twitter.in.PHP.MySQL_[freetuts.download]/02 Building Users Features/attached_files/007 Creating index page and forms/project files/includes/login-form.html",
+		"/G/XAMPP/htdocs/twitter/include/login-form.html",
+		"/G/Udemy.Create.a.High.End.Social.Network.Like.Twitter.in.PHP.MySQL_[freetuts.download]/02 Building Users Features/attached_files/007 Creating index page and forms/project files/index.html",
+		"/G/queue.py",
+		"/G/C pro/withoutprintf.c",
+		"/G/C pro/ifelseprintboth.c",
+		"/G/C pro/hashmissing.c",
+		"/G/C pro/test1.c",
+		"/G/C pro/prime.c",
+		"/F/Taxiwala.DVDScr.en-en.srt",
+		"/G/Algorithms/codechef.java",
+		"/C/Users/HP/eclipse-workspace/huffmancode/src/huffmancode/Huffman.java",
+		"/C/Users/HP/eclipse-workspace/huffmancoding/src/huffmancoding/Information.java",
+		"/C/Users/HP/eclipse-workspace/huffmancoding/bin/huffmancoding/Huffman.class",
+		"/C/Users/HP/eclipse-workspace/huffmancode/bin/huffmancode/Huffman.class",
+		"/G/DSA/Week 7/Graph code/shortpath.java",
+		"/C/Users/HP/Documents/Project_compression/Huffman text compression/src/huffman/HuffMan.java",
+		"/C/Users/HP/Documents/Project_compression/Huffman text compression/src/huffman/FrequenceComparator.java",
+		"/C/Users/HP/Documents/Project_compression/Huffman text compression/src/huffman/HuffmanNode.java",
+		"/C/Users/HP/Documents/Project_compression/Huffman text compression/src/huffman/iterativeBase.txt",
+		"/C/Users/HP/Documents/Project_compression/Huffman text compression/src/huffman/HuffMan.txt",
+		"/C/Users/HP/Documents/Project_compression/Huffman text compression/src/huffman/FrequenceComparator.txt",
+		"/C/Users/HP/Documents/Project_compression/Huffman text compression/src/huffman/HuffmanNode.txt",
+		"/G/DSA/Week 6/DefineGraph.java",
+		"/G/DSA/Week 6/BFS.java",
+		"/G/DSA/Week 6/DFS.java",
+		"/G/DSA/Week 6/Cycledetaction.java",
+		"/G/DSA/Week 6/BellmanFord.java",
+		"/G/DSA/Week 6/StronglyConnectedComponent.java",
+		"/G/DSA/Week 6/shortpath.java",
+		"/G/DSA/Week 7/Heap code/TreeNode.class",
+		"/G/DSA/Week 6/deletionHeap.java",
+		"/G/DSA/Week 6/BuildHeap.java",
+		"/G/DSA/Week 6/GFG.java",
+		"/G/DSA/Week 6/search.java",
+		"/G/DSA/Week 6/InsertInABinarySearchTree.java",
+		"/G/DSA/Week 6/BinarySearchTree.java",
+		"/G/DSA/Week 6/LCA.java",
+		"/G/DSA/Week 6/BinaryTree.java",
+		"/G/DSA/Week 6/TopView.java",
+		"/G/DSA/Week 6/IterativeBinaryTree.java",
+		"/G/DSA/Week 6/InsertInBinaryTree.java",
+		"/G/DSA/Week 6/FindLCA.java",
+		"/G/DSA/Week 6/TBinaryTree.java",
+		"/G/DSA/Week 6/DiameterBinaryTree.java",
+		"/G/DSA/Week 6/leftview.java",
+		"/C/Users/HP/Downloads/DSA/postfixhavingmultipledigit.java",
+		"/C/Users/HP/Downloads/DSA/stackwithArray.java",
+		"/C/Users/HP/Downloads/DSA/arrayimplementationofqueue.java",
+		"/C/Users/HP/Downloads/DSA/Inbuildqueue.java",
+		"/C/Users/HP/Downloads/DSA/Queue2.java",
+		"/C/Users/HP/Downloads/DSA/DUBTree.java",
+		"/G/DSA/test for string/GFG.java",
+		"/C/Users/HP/AppData/Local/Temp/Rar$DIa13928.27529/Huffman.java",
+		"/C/Users/HP/Downloads/DSA/implementastackusingtwpqueue.java",
+		"/C/Users/HP/Downloads/DSA/CircularLinkedLists.java",
+		"/C/Users/HP/Downloads/DSA/Queue1.java",
+		"/C/Users/HP/Downloads/DSA/SinglyLinkedList.java",
+		"/C/Users/HP/Downloads/DSA/DoublyLinkedList.java",
+		"/C/Users/HP/Downloads/DSA/CircularLinkedList.java",
+		"/C/Users/HP/Downloads/DSA/test for string/GFG.java",
+		"/C/Users/HP/Downloads/DSA/Week 5/Stack code/ImplementingStackusingArrays.java",
+		"/C/Users/HP/Downloads/DSA/Week 5/Stack code/infixtoPostfix.java",
+		"/C/Users/HP/Downloads/DSA/Week 5/Stack code/valueofapostfixexpression.java",
+		"/C/Users/HP/Downloads/DSA/Week 5/Stack code/StackAsLinkedList.java",
+		"/C/Users/HP/Downloads/DSA/Week 5/Stack code/StackclassinJava.java",
+		"/C/Users/HP/Downloads/DSA/test for string/GFGC.java",
+		"/C/Users/HP/Pictures/TestA.java",
+		"/C/Users/HP/Downloads/DSA/LinkedListCreate.java",
+		"/C/Users/HP/Downloads/DSA/LinkedListTraversal.java",
+		"/C/Users/HP/Downloads/DSA/NaiveSearch.java",
+		"/C/Users/HP/Downloads/DSA/RabinKarp.java",
+		"/C/Users/HP/Downloads/DSA/KMP_String.java",
+		"/C/Users/HP/Downloads/DSA/StringProcessing.java",
+		"/C/Users/HP/Downloads/DSA/Week 1/RopeCut/Rope.java",
+		"/C/Users/HP/Documents/IterateBase.java",
+		"/F/se6/USP/outputoffork/p1.c"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"icon",
+			"center",
+			"2em",
+			"%;\n",
+			"features",
+			"video",
+			"container",
+			"logo",
+			"grid",
+			"100px",
+			"60px",
+			"block",
+			">\n",
+			"tw",
+			"tweet",
+			"tweet-er",
+			"rePassword",
+			"newPassword",
+			"currentPwd",
+			"username",
+			" <li<a href=\"<?php echo BASE_URL;?>home.php\">",
+			"cancel",
+			"profileImagr",
+			"profileCover",
+			"form",
+			"hover",
+			"image",
+			"profilimage",
+			";?>\"><?",
+			"screenName",
+			"screenname",
+			";\n",
+			"}",
+			"_0x4b81bb",
+			"0x4",
+			");\n",
+			"}",
+			"h",
+			"Vector",
+			"insert",
+			"count",
+			";\n",
+			"\\n",
+			"display",
+			"--;\n",
+			"60",
+			"15",
+			"16",
+			"inparr",
+			"();",
+			"a[",
+			"cong",
+			"JdbcOdbcDriver",
+			"2",
+			"\");}",
+			"nter",
+			"(\"\\",
+			"babe",
+			"lw"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"screenName",
+			"4",
+			"sudoku["
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 128.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
